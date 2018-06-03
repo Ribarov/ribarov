@@ -1,0 +1,69 @@
+body  {
+    background-image: url(web.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.navbar-brand {
+    position: center;
+}
+  
+.btn-info {
+    position: fixed;
+    top: 80%;
+    left: 45%;
+    background-color: rgb(27, 27, 27);
+    font-family: 'Permanent Marker', cursive;
+    border-color: transparent;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.btn-info:hover {
+        background-color: rgba(102, 100, 100, 0);
+        font-family: 'Permanent Marker', cursive;
+        border-color: transparent;
+
+
+
+}
+.welcome  {
+    font-family: 'Permanent Marker', cursive;
+    position: fixed;
+    top: 50%;
+    left: 41%;
+}
+
+.h2 {
+    font-family: 'Permanent Marker', cursive;
+    position: fixed;
+    top: 40%;
+    left:46%;
+
+}
+.startup {
+    font-family: 'Permanent Marker', cursive;
+    position: fixed;
+    top: 60%;
+    left: 37%;
+
+}
+#code {
+    position: fixed;
+    right: 0;
+    top: 15%
+
+}
+#brain  {
+    position: fixed;
+    top: 15%;
+}
+.header{
+	background:url(../images/bg-navigation.jpg) no-repeat center 90px;
+	width:940px;
+	margin:0 auto;
+	height:105px;
+	padding:36px 10px 0;
+}
